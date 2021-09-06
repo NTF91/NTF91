@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NTF91
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning C++
